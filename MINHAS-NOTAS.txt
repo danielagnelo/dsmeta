@@ -1,0 +1,5 @@
+git remote set-url origin git://github.com/danielagnelo/dsmeta.git
+git remote set-url origin git@github.com:danielagnelo/dsmeta.git
+git remote set-url origin https://github.com/danielagnelo/dsmeta.git
+
+A TERCEIRA HAVIA FUNCIONADO
